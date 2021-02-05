@@ -7,7 +7,7 @@ Hi there, I'm Rumeysa 👋🏻
 
 
 
-I'm so glad you explored my GitHub profile and now here you are 🤩 I'm software engineer who so passionate about her profession and does her best to follow the development of the software world. I can't wait to share more of my projects here as my knowledge improves! 💃🏻
+I'm so glad you explored my GitHub profile and now here you are 🤩 I'm software engineer who is so passionate about her profession and does her best to follow the development of the software world. I can't wait to share more of my projects here as my knowledge improves! 💃🏻
 
 ### Contact with me
   <a href="https://medium.com/@rumeysaturgutt" target="_blank">
